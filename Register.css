@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid 3px;
+    height: 625px;
+    background-image: url(pizzzzzza.avif);
+    background-repeat: no repeat;
+    background-size: 1400px 625px;
+}
+form{
+    border: solid 2px rgb(207, 183, 49);
+    margin-left: 700px;
+    margin-top: 150px;
+    width: 300px;
+    padding-left: 40px;
+}
+label{
+    color: rgb(199, 231, 136);
+    font-size: 30px;
+}
+h1{
+    color: burlywood;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 250px;
+}
+button{
+     height: 45px;
+      width: 135px;
+      background-color: red;
+      color: white;
+      font-size: 20px;
+      font-weight: bold;
+      border-radius:10px;
+}
+p{
+    color: white;
+    font: 25px;
+
+}
+p a{
+color: skyblue;
+font-size: 35px;
+}
